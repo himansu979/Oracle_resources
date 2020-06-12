@@ -9,12 +9,12 @@ resources, documentations related to oracle cloud
 
 Oracle Cloud has 3 parts : **Cloud Applications (SaaS)**, **Cloud Infrastructure (IaaS)**, **Cloud Platform (PaaS)**
 
-- Oracle Cloud Applications Documentation (SaaS) : https://docs.oracle.com/en/cloud/saas/index.html
-- Oracle Cloud Infrastructure Documentation (IaaS) : https://docs.cloud.oracle.com/en-us/iaas/Content/home.htm
+- **Oracle Cloud Applications Documentation (SaaS) :** https://docs.oracle.com/en/cloud/saas/index.html
+- **Oracle Cloud Infrastructure Documentation (IaaS) :** https://docs.cloud.oracle.com/en-us/iaas/Content/home.htm
   - Getting Started : https://docs.cloud.oracle.com/en-us/iaas/Content/GSG/Concepts/baremetalintro.htm
   - OCI Data Flow : https://docs.cloud.oracle.com/en-us/iaas/data-flow/using/dfs_data_flow.htm
   - OCI object storage : https://docs.cloud.oracle.com/en-us/iaas/Content/Object/Concepts/objectstorageoverview.htm
-- Oracle Cloud Platform Documentation (PaaS) : https://docs.oracle.com/en/cloud/paas/index.html
+- **Oracle Cloud Platform Documentation (PaaS) :** https://docs.oracle.com/en/cloud/paas/index.html
   - Oracle Integration : https://docs.oracle.com/en/cloud/paas/integration-cloud/index.html
   - Oracle Analytics Cloud : https://docs.oracle.com/en/cloud/paas/analytics-cloud/index.html
 
@@ -27,8 +27,12 @@ Oracle Cloud has 3 parts : **Cloud Applications (SaaS)**, **Cloud Infrastructure
   
 - **ODI : Oracle Data Integrator** : https://www.oracle.com/middleware/technologies/data-integrator.html
 - **OCI Data Flow** : https://www.oracle.com/big-data/data-flow/
-  - Data Flow Documentation : https://docs.cloud.oracle.com/en-us/iaas/data-flow/using/dfs_data_flow.htm
+  - Data Flow Documentation (part of IaaS) : https://docs.cloud.oracle.com/en-us/iaas/data-flow/using/dfs_data_flow.htm
   - Data Flow tutorial : https://docs.cloud.oracle.com/en-us/iaas/data-flow/tutorial/dfs_tut_front.htm
+  
+- **OAC : Oracle Analytics Cloud** : https://www.oracle.com/middleware/technologies/oracle-analytics-cloud.html
+  - OAC documentation (part of PaaS) : https://docs.oracle.com/en/cloud/paas/analytics-cloud/tutorials.html
+  - OAC videos : https://docs.oracle.com/en/cloud/paas/analytics-cloud/videos.html
 - **OCI CLI Command Reference** : https://docs.cloud.oracle.com/en-us/iaas/Content/API/Concepts/cliconcepts.htm
   - oci cli pip package : https://pypi.org/project/oci-cli/
   - https://pypi.org/project/oci/
