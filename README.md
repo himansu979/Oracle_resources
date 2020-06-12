@@ -13,6 +13,7 @@ Oracle Cloud has 3 parts : **Cloud Applications (SaaS)**, **Cloud Infrastructure
 - Oracle Cloud Infrastructure Documentation (IaaS) : https://docs.cloud.oracle.com/en-us/iaas/Content/home.htm
   - Getting Started : https://docs.cloud.oracle.com/en-us/iaas/Content/GSG/Concepts/baremetalintro.htm
   - OCI Data Flow : https://docs.cloud.oracle.com/en-us/iaas/data-flow/using/dfs_data_flow.htm
+  - OCI object storage : https://docs.cloud.oracle.com/en-us/iaas/Content/Object/Concepts/objectstorageoverview.htm
 - Oracle Cloud Platform Documentation (PaaS) : https://docs.oracle.com/en/cloud/paas/index.html
   - Oracle Integration : https://docs.oracle.com/en/cloud/paas/integration-cloud/index.html
   - Oracle Analytics Cloud : https://docs.oracle.com/en/cloud/paas/analytics-cloud/index.html
@@ -43,8 +44,8 @@ Oracle Cloud has 3 parts : **Cloud Applications (SaaS)**, **Cloud Infrastructure
   - https://www.youtube.com/watch?v=5TSsHIMyPf0
   
  - Oracle cloud Hands on lab : https://oracle.github.io/learning-library/oci-library/DevOps/OCI_CLI/OCI_CLI_HOL.html
-  - Oracle learning library : https://github.com/oracle/learning-library
-  - https://oracle.github.io/learning-library/
+    - Oracle learning library : https://github.com/oracle/learning-library
+    - https://oracle.github.io/learning-library/
   
   
  
