@@ -38,7 +38,8 @@ Oracle Cloud has 3 parts : **Cloud Applications (SaaS)**, **Cloud Infrastructure
   - OCI CLI Command Reference : https://docs.cloud.oracle.com/en-us/iaas/tools/oci-cli/2.11.0/oci_cli_docs/
   - oci configuration : https://oracle-cloud-infrastructure-python-sdk.readthedocs.io/en/latest/configuration.html
   
-  
+- OCI CLI installation : https://www.youtube.com/watch?v=rxdeUduFpZ4
+
 
  
  ### commands
