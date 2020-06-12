@@ -25,15 +25,23 @@ Oracle Cloud has 3 parts : **Cloud Applications (SaaS)**, **Cloud Infrastructure
   
   <br>
   
-- **ODI : Oracle Data Integrator** : https://www.oracle.com/middleware/technologies/data-integrator.html
-- **OCI Data Flow** : https://www.oracle.com/big-data/data-flow/
+- **ODI : Oracle Data Integrator** 
+- https://www.oracle.com/middleware/technologies/data-integrator.html
+- **OCI Data Flow** 
+  - https://www.oracle.com/big-data/data-flow/
   - Data Flow Documentation (part of IaaS) : https://docs.cloud.oracle.com/en-us/iaas/data-flow/using/dfs_data_flow.htm
   - Data Flow tutorial : https://docs.cloud.oracle.com/en-us/iaas/data-flow/tutorial/dfs_tut_front.htm
   
-- **OAC : Oracle Analytics Cloud** : https://www.oracle.com/middleware/technologies/oracle-analytics-cloud.html
+- **OAC : Oracle Analytics Cloud** 
+  - https://www.oracle.com/middleware/technologies/oracle-analytics-cloud.html
   - OAC documentation (part of PaaS) : https://docs.oracle.com/en/cloud/paas/analytics-cloud/tutorials.html
   - OAC videos : https://docs.oracle.com/en/cloud/paas/analytics-cloud/videos.html
-- **OCI CLI Command Reference** : https://docs.cloud.oracle.com/en-us/iaas/Content/API/Concepts/cliconcepts.htm
+  - create services with OAC : https://docs.oracle.com/en/cloud/paas/analytics-cloud/acsom/create-services-oracle-analytics-cloud.html
+  - Application roles : https://docs.oracle.com/en/cloud/paas/analytics-cloud/acabi/application-roles.html
+  - Oracle Analytics Library : https://www.oracle.com/business-analytics/data-visualization/extensions.html
+  
+- **OCI CLI Command Reference** 
+  - https://docs.cloud.oracle.com/en-us/iaas/Content/API/Concepts/cliconcepts.htm
   - oci cli pip package : https://pypi.org/project/oci-cli/
   - https://pypi.org/project/oci/
   - install oci cli medium : https://medium.com/@thiago_lemos/install-oci-cli-quick-setp-by-step-guide-ea0283e925d0
