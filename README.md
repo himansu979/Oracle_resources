@@ -29,13 +29,15 @@ Oracle Cloud has 3 parts : **Cloud Applications (SaaS)**, **Cloud Infrastructure
   - Data Flow Documentation : https://docs.cloud.oracle.com/en-us/iaas/data-flow/using/dfs_data_flow.htm
   - Data Flow tutorial : https://docs.cloud.oracle.com/en-us/iaas/data-flow/tutorial/dfs_tut_front.htm
 - **OCI CLI Command Reference** : https://docs.cloud.oracle.com/en-us/iaas/Content/API/Concepts/cliconcepts.htm
-  - https://docs.cloud.oracle.com/en-us/iaas/tools/oci-cli/2.11.0/oci_cli_docs/
   - oci cli pip package : https://pypi.org/project/oci-cli/
   - https://pypi.org/project/oci/
   - install oci cli medium : https://medium.com/@thiago_lemos/install-oci-cli-quick-setp-by-step-guide-ea0283e925d0
   - install win64 OpenSSL : https://slproweb.com/products/Win32OpenSSL.html
   - https://stackoverflow.com/questions/54175042/python-3-7-anaconda-environment-import-ssl-dll-load-fail-error
   - https://github.com/oracle/oci-cli/issues
+  - OCI CLI Command Reference : https://docs.cloud.oracle.com/en-us/iaas/tools/oci-cli/2.11.0/oci_cli_docs/
+  - oci configuration : https://oracle-cloud-infrastructure-python-sdk.readthedocs.io/en/latest/configuration.html
+  
   
 
  
@@ -49,6 +51,16 @@ Oracle Cloud has 3 parts : **Cloud Applications (SaaS)**, **Cloud Infrastructure
 '2.16.0'
 install win64 OpenSSL : https://slproweb.com/products/Win32OpenSSL.html
 C:\\Users\\himan\\lib\\oracle-cli
+
+oci --help or oci -h
+where oci
+C:\Users\himan\bin\oci.exe
+
+oci --version
+2.11.0
+oci os bucket -h
+oci os bucket create -?
+
  ```
  
  
