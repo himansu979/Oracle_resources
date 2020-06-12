@@ -38,11 +38,17 @@ Oracle Cloud has 3 parts : **Cloud Applications (SaaS)**, **Cloud Infrastructure
   - OCI CLI Command Reference : https://docs.cloud.oracle.com/en-us/iaas/tools/oci-cli/2.11.0/oci_cli_docs/
   - oci configuration : https://oracle-cloud-infrastructure-python-sdk.readthedocs.io/en/latest/configuration.html
   
-- OCI CLI installation : https://www.youtube.com/watch?v=rxdeUduFpZ4
-
-
+- OCI CLI installation : 
+  - https://www.youtube.com/watch?v=rxdeUduFpZ4
+  - https://www.youtube.com/watch?v=5TSsHIMyPf0
+  
+ - Oracle cloud Hands on lab : https://oracle.github.io/learning-library/oci-library/DevOps/OCI_CLI/OCI_CLI_HOL.html
+  - Oracle learning library : https://github.com/oracle/learning-library
+  - https://oracle.github.io/learning-library/
+  
+  
  
- ### commands
+ ### commands 
  
  ```
  pip install oci-cli
@@ -62,6 +68,7 @@ oci --version
 oci os bucket -h
 oci os bucket create -?
 
+oci setup config
  ```
  
  
