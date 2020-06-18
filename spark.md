@@ -1,10 +1,13 @@
 # Spark Resources
 
-- IntelliJ IDEA youtube channel : https://www.youtube.com/channel/UC4ogdcPcIAOOMJktgBMhQnQ
-- IntelliJ webpage documentation : https://www.jetbrains.com/help/idea/discover-intellij-idea.html
+- Learning Journal - Prashant Kumar : https://github.com/LearningJournal
+- learning journal guru : https://www.learningjournal.guru/
+- youtube channel : https://www.youtube.com/channel/UC8OU1Tc1kxiI37uXBAbTX7A
 
 # Java Resources
-- - creating first java app in intelliJIdea : https://www.youtube.com/watch?v=H_XxH66lm3U
+- creating first java app in intelliJIdea : https://www.youtube.com/watch?v=H_XxH66lm3U
+- IntelliJ IDEA youtube channel : https://www.youtube.com/channel/UC4ogdcPcIAOOMJktgBMhQnQ
+- IntelliJ webpage documentation : https://www.jetbrains.com/help/idea/discover-intellij-idea.html
 
 
 ```
