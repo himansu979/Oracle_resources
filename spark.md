@@ -3,6 +3,11 @@
 - Learning Journal - Prashant Kumar : https://github.com/LearningJournal
 - learning journal guru : https://www.learningjournal.guru/
 - youtube channel : https://www.youtube.com/channel/UC8OU1Tc1kxiI37uXBAbTX7A
+- spark foundation training : https://www.learningjournal.guru/courses/spark/spark-foundation-training/
+  - JDBC data sources : https://www.learningjournal.guru/courses/spark/spark-foundation-training/jdbc-data-sources/
+- Apache spark : https://spark.apache.org/
+  - Spark SQL, DataFrames and Datasets - https://spark.apache.org/docs/latest/sql-programming-guide.html#jdbc-to-other-databases
+  
 
 # Java Resources
 - creating first java app in intelliJIdea : https://www.youtube.com/watch?v=H_XxH66lm3U
