@@ -9,7 +9,14 @@
 - spark foundation training : https://www.learningjournal.guru/courses/spark/spark-foundation-training/
   - JDBC data sources : https://www.learningjournal.guru/courses/spark/spark-foundation-training/jdbc-data-sources/
 
+# Scala-SBT Resources
+- SBT-interactive build tool : https://www.scala-sbt.org/index.html
+  - SBT Reference manual : https://www.scala-sbt.org/1.x/docs/
+- Scala programming language : https://www.scala-lang.org/
+
+
 # Java Resources
+- JAVA tutorial, W3schools : https://www.w3schools.com/java/
 - creating first java app in intelliJIdea : https://www.youtube.com/watch?v=H_XxH66lm3U
 - IntelliJ IDEA youtube channel : https://www.youtube.com/channel/UC4ogdcPcIAOOMJktgBMhQnQ
 - IntelliJ webpage documentation : https://www.jetbrains.com/help/idea/discover-intellij-idea.html
