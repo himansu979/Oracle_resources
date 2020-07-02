@@ -7,7 +7,14 @@
 - Get started with Notebooks for Data Analysis and Data Visualization : https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/omlug/get-started-notebooks-data-analysis-and-data-visualization.html#GUID-FC822409-1345-4172-8C23-C911D0590034
 - SH sample schema table descriptions : https://docs.oracle.com/en/database/oracle/oracle-database/18/comsc/SH-sample-schema-table-descriptions.html#GUID-537FD098-CB66-4436-A36F-2500698E5B58
 - sample datasets in ADW : https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/autonomous-sample-data.html#GUID-4BB2B49B-0C20-4E38-BCC7-A61D3F45390B
+- installing Oracle databse : https://docs.oracle.com/en/database/oracle/oracle-database/18/xeinw/installing-oracle-database-xe.html#GUID-8A8E5F6D-F00E-40BD-B74D-A41CCC502AE9
 
+# Oracle Learning Library
+- Oracle Learning Library : https://oracle.github.io/learning-library/
+- Oracle Learning Library Github : https://github.com/oracle/learning-library
+- Workshop : Oracle Machine Learning with ADW : https://oracle.github.io/learning-library/data-management-library/oracle-machine-learning/adb-oml/workshop/
+  - https://oracle.github.io/learning-library/workshops/
+- 
 
 # Articles/Blogs
 - Oracle ML for python : https://towardsdatascience.com/oracle-machine-learning-for-python-e335fc0a50e8
