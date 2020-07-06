@@ -16,6 +16,7 @@
 - Oracle Learning Library : https://oracle.github.io/learning-library/
   - Oracle Free Account : https://www.oracle.com/cloud/free/
 - Oracle Learning Library Github : https://github.com/oracle/learning-library
+  - Oracle db examples : https://github.com/oracle/oracle-db-examples/tree/master/machine-learning
 - Workshop : Oracle Machine Learning with ADW : https://oracle.github.io/learning-library/data-management-library/oracle-machine-learning/adb-oml/workshop/
   - https://oracle.github.io/learning-library/data-management-library/oracle-machine-learning/adb-oml/workshop/index.html
   - https://oracle.github.io/learning-library/workshops/
