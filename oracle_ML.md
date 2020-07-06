@@ -1,6 +1,9 @@
 # Oracle Machine Learning
 - Oracle Machine Learning : https://www.oracle.com/database/technologies/datawarehouse-bigdata/machine-learning.html
 - Oracle ADW : https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/index.html
+  - https://www.oracle.com/database/
+  - Oracle SQL developer : https://docs.oracle.com/en/database/oracle/sql-developer/
+- Oracle ML documentation : https://docs.oracle.com/en/database/oracle/oracle-database/19/data-warehousing.html
 - Using Oracle Machine Learning : https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/omlug/
 - Oracle Data Mining Algorithms : https://docs.oracle.com/en/database/oracle/oracle-database/19/dmapi/algorithms.html#GUID-B901A29B-218C-4F37-91E0-AA94631364E3
 - Get started with Oracle ML Notebooks : https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/omlug/get-started-oracle-machine-learning.html#GUID-2AEC56A4-E751-48A3-AAA0-0659EDD639BA
