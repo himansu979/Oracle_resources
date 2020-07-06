@@ -11,10 +11,12 @@
 
 # Oracle Learning Library
 - Oracle Learning Library : https://oracle.github.io/learning-library/
+  - Oracle Free Account : https://www.oracle.com/cloud/free/
 - Oracle Learning Library Github : https://github.com/oracle/learning-library
 - Workshop : Oracle Machine Learning with ADW : https://oracle.github.io/learning-library/data-management-library/oracle-machine-learning/adb-oml/workshop/
+  - https://oracle.github.io/learning-library/data-management-library/oracle-machine-learning/adb-oml/workshop/index.html
   - https://oracle.github.io/learning-library/workshops/
-- 
+- Oracle videos youtube : https://www.youtube.com/playlist?list=PLdtXkK5KBY57_y3Z0SW2cbCqGUPbfc94w
 
 # Articles/Blogs
 - Oracle ML for python : https://towardsdatascience.com/oracle-machine-learning-for-python-e335fc0a50e8
