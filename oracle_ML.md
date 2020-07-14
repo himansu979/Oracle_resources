@@ -21,6 +21,7 @@
 - Workshop : Oracle Machine Learning with ADW : https://oracle.github.io/learning-library/data-management-library/oracle-machine-learning/adb-oml/workshop/
   - https://oracle.github.io/learning-library/data-management-library/oracle-machine-learning/adb-oml/workshop/index.html
   - https://oracle.github.io/learning-library/workshops/
+  - Getting started with hands-on lab : https://go.oracle.com/hol
 - Oracle videos youtube : https://www.youtube.com/playlist?list=PLdtXkK5KBY57_y3Z0SW2cbCqGUPbfc94w
 
 # Articles/Blogs
