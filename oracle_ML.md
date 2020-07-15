@@ -6,6 +6,7 @@
 - Oracle ML documentation : https://docs.oracle.com/en/database/oracle/oracle-database/19/data-warehousing.html
   - Oracle datamining : https://docs.oracle.com/en/database/oracle/oracle-database/19/dmprg/index.html
 - Using Oracle Machine Learning : https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/omlug/
+  - ADW tutorials : https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/tutorials.html
 - Oracle Data Mining Algorithms : https://docs.oracle.com/en/database/oracle/oracle-database/19/dmapi/algorithms.html#GUID-B901A29B-218C-4F37-91E0-AA94631364E3
 - Get started with Oracle ML Notebooks : https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/omlug/get-started-oracle-machine-learning.html#GUID-2AEC56A4-E751-48A3-AAA0-0659EDD639BA
 - Get started with Notebooks for Data Analysis and Data Visualization : https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/omlug/get-started-notebooks-data-analysis-and-data-visualization.html#GUID-FC822409-1345-4172-8C23-C911D0590034
@@ -23,6 +24,9 @@
   - https://oracle.github.io/learning-library/workshops/
   - Getting started with hands-on lab : https://go.oracle.com/hol
 - Oracle videos youtube : https://www.youtube.com/playlist?list=PLdtXkK5KBY57_y3Z0SW2cbCqGUPbfc94w
+  - Hands-on Lab 300 : https://go.oracle.com/LP=82486?elqCampaignId=166509
+  - https://www.youtube.com/watch?v=FVDh5EGUZac&feature=youtu.be
+  - Chalie Berger : https://www.youtube.com/watch?v=8oPtJaV_FD0
 
 # Articles/Blogs
 - Oracle ML for python : https://towardsdatascience.com/oracle-machine-learning-for-python-e335fc0a50e8
