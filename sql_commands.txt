@@ -1,0 +1,32 @@
+BEGIN
+dbms_output.put_line ('Hello World..');
+END;
+/
+
+DECLARE
+text VARCHAR2(25);
+BEGIN
+text:= 'Hello World';
+dbms_output.put_line (text);
+END;
+/
+
+DECLARE
+lv_name VARCHAR2(50);
+lv_name_2 VARCHAR2(50) := 'GURU99';
+BEGIN 
+lv_name := lv_name_2; 
+dbms_output.put_line(lv_name);
+END;
+
+DECLARE 
+a CHAR(1) :='u';
+BEGIN
+IF UPPER(a) in ('A','E','I','0','U' ) THEN 
+dbms_output.put_line('The character is in English Vowels');
+END IF;
+END;
+/
+
+
+
