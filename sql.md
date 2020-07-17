@@ -18,3 +18,55 @@ DROP VIEW demo;
 
 ## EXECUTE IMMEDIATE
 https://www.youtube.com/watch?v=47KzYVBNbIs
+```
+DECLARE
+sql_query VARCHAR2(150);
+tot_count NUMBER(6);
+
+BEGIN
+sql_query := 'SELECT COUNT(*) FROM SH.CUSTOMERS';
+DBMS_OUTPUT.PUT_LINE(sql_query);
+EXECUTE IMMEDIATE sql_query INTO tot_count;
+DBMS_OUTPUT.PUT_LINE('Total count is : ' || tot_count);
+END;
+/
+```
+
+## CREATE OR REPLACE PROCEDURE
+https://www.guru99.com/subprograms-procedures-functions-pl-sql.html
+```
+CREATE OR REPLACE PROCEDURE welcome_msg (p_name IN VARCHAR2) 
+IS
+BEGIN
+dbms_output.put_line ('Welcome '|| p_name);
+END;
+/
+
+EXEC welcome_msg ('Guru99');
+```
+
+## CREATE OR REPLACE FUNCTION
+```
+CREATE OR REPLACE FUNCTION welcome_msg_func ( p_name IN VARCHAR2) RETURN VARCHAR2
+IS
+BEGIN
+RETURN ('Welcome ' || p_name);
+END;
+/
+
+SELECT welcome_msg_func('Guru99') FROM DUAL;
+
+DECLARE
+lv_msg VARCHAR2(250);
+BEGIN
+lv_msg := welcome_msg_func ('Himansu');
+dbms_output.put_line(welcome_msg_func('Guru99'));
+dbms_output.put_line(lv_msg);
+END;
+/
+```
+
+
+
+
+
