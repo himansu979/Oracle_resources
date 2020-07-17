@@ -28,5 +28,124 @@ END IF;
 END;
 /
 
+DECLARE 
+a NUMBER:=11;
+BEGIN
+dbms_output.put_line ('Program started');
+IF( mod(a,2)=0) THEN 
+dbms_output.put_line('a is even number' ); 
+ELSE
+dbms_output.put_line('a is odd number1'); 
+END IF;
+dbms_output.put_line ('Program completed.');
+END;
+/
+
+DECLARE
+mark NUMBER :=55;
+BEGIN
+dbms_output.put_line('Program started.' );
+IF( mark >= 70) THEN 
+dbms_output.put_line('Grade A');
+ELSIF(mark >= 40 AND mark < 70) THEN
+dbms_output.put_line('Grade B'); 
+ELSIF(mark >=35 AND mark < 40) THEN
+dbms_output.put_line('Grade C');
+END IF;
+dbms_output.put_line('Program completed.'); 
+END;
+/
+
+DECLARE
+mark NUMBER :=25;
+BEGIN
+dbms_output.put_line('Program started.' );
+IF( mark >= 70) THEN 
+dbms_output.put_line('Grade A'); 
+ELSIF(mark >= 40 AND mark < 70) THEN 
+dbms_output.put_line('Grade B'); 
+ELSIF(mark >=35 AND mark < 40) THEN 
+dbms_output.put_line('Grade C');
+ELSE
+dbms_output.put_line('No Grade');
+END IF;
+dbms_output.put_line('Program completed.' ); 
+END;
+/
+
+DECLARE 
+a NUMBER :=10; 
+b NUMBER :=15; 
+c NUMBER :=20;
+BEGIN
+dbms_output.put_line('Program started.' );
+IF( a > b)THEN
+/*Nested-if l */
+	dbms_output.put_line('Checking Nested-IF 1'); 
+	IF( a > c ) THEN
+	dbms_output.put_line('A is greatest'); 
+	ELSE
+	dbms_output.put_line('C is greatest'); 
+	END IF;
+ELSE
+/*Nested-if2 */
+	dbms_output.put_line('Checking Nested-IF 2' ); 
+	IF( b > c ) THEN
+	dbms_output.put_line('B is greatest' ); 
+	ELSE
+	dbms_output.put_line('C is greatest' ); 
+	END IF;
+END IF;
+dbms_output.put_line('Program completed.' );
+END;
+/
+
+DECLARE
+a NUMBER :=55;
+b NUMBER :=5;
+arth_operation VARCHAR2(20) :='MULTIPLY';
+BEGIN
+dbms_output.put_line('Program started.' );
+CASE (arth_operation)
+WHEN 'ADD' THEN dbms_output.put_line('Addition of the numbers are: '|| a+b );
+WHEN 'SUBTRACT' THEN dbms_output.put_line('Subtraction of the numbers are: '||a-b ); 
+WHEN 'MULTIPLY' THEN dbms_output.put_line('Multiplication of the numbers are: '|| a*b
+);
+WHEN'‘DIVIDE' THEN dbms_output.put_line('Division of the numbers are:'|| a/b);
+ELSE dbms_output.put_line('No operation action defined. Invalid operation');
+END CASE;
+dbms_output.put_line('Program completed.' );
+END;
+/
+
+
+DECLARE a NUMBER :=55;
+b NUMBER :=5;
+arth_operation VARCHAR2(20) :='DIVIDE';
+BEGIN
+dbms_output.put_line(‘Program started.' );
+CASE
+WHEN arth_operation = 'ADD'
+THEN dbms_output.put_line(‘Addition of the numbers are: '||a+b );
+WHEN arth_operation = ‘SUBTRACT'
+THEN dbms_output.put_line(‘Subtraction of the numbers are: '|| a-b);
+WHEN arth_operation = ‘MULTIPLY’
+THEN dbms_output.put_line(‘Multiplication of the numbers are: '|| a*b ); 
+WHEN arth_operation = ’DIVIDE'
+THEN dbms_output.put_line(‘Division of the numbers are: '|| a/b ):
+ELSE dbms_output.put_line(‘No operation action defined. Invalid operation'); 
+END CASE;
+dbms_output.put_line(‘Program completed.' );
+END;
+/
+
+
+
+
+
+
+
+
+
 
 
