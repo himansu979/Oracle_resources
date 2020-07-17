@@ -76,6 +76,22 @@ END;
 /
 ```
 
+## while loop
+
+```
+DECLARE
+a NUMBER :=1;
+BEGIN
+dbms_output.put_line('Program started');
+WHILE (a <= 5) 
+LOOP
+dbms_output.put_line(a);
+a:=a+1;
+END LOOP;
+dbms_output.put_line('Program completed' ); 	
+END;
+/
+```
 
 
 
