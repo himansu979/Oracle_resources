@@ -9,6 +9,8 @@ you can develop and deploy professional Web-based applications for desktops and 
   - https://docs.oracle.com/database/apex-18.1/index.htm
   - https://docs.oracle.com/en/database/oracle/application-express/19.2/
   - OTN : Oracle Technology Network : https://www.oracle.com/technical-resources/
+  - Oracle JET : https://www.oracle.com/webfolder/technetwork/jet/globalGetStarted.html
+  - Ochart API Guide : https://docs.oracle.com/en/middleware/developer-tools/jet/7.2/reference-api/oj.ojChart.html
 - community : https://community.oracle.com/community/groundbreakers/database/developer-tools/application_express
 - youtube videos : https://www.youtube.com/playlist?list=PLUo-NIMouZ_ug2RrSrnwdC3POwUUCjPol
   - Caleb cury : https://www.youtube.com/watch?v=ahlW-Jkumto&list=PL_c9BZzLwBRJXk2hEP-U_OUMJAf_TYEiZ
