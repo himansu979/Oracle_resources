@@ -18,6 +18,7 @@ you can develop and deploy professional Web-based applications for desktops and 
 - installing sample dataset : https://docs.oracle.com/en/database/oracle/application-express/18/tutorial-install-sample-dataset/
 - Oracle APEX hands on lab : https://oracle.github.io/learning-library/developer-library/apex/rest-web-source/?page=README.md
 - importing application to workspace : https://docs.oracle.com/en/database/oracle/application-express/19.1/aetut/importing-application-workspace.html
+- App builder users guide : https://docs.oracle.com/en/database/oracle/application-express/19.1/htmdb/editing-pages-page-designer.html#GUID-EFD04B51-9114-466C-9CCA-9BF43BE4F571
 
 
 # Blogs
