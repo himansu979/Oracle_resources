@@ -4,6 +4,7 @@ you can develop and deploy professional Web-based applications for desktops and 
 
 - docs : https://apex.oracle.com/en/
   - https://docs.oracle.com/en/database/oracle/application-express/index.html
+  - Apex tutorial : https://apex.oracle.com/en/learn/tutorials/
 - getting started : https://apex.oracle.com/en/learn/getting-started/
 - documentation : 
   - https://docs.oracle.com/database/apex-18.1/index.htm
