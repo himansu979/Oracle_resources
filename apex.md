@@ -5,10 +5,12 @@ you can develop and deploy professional Web-based applications for desktops and 
 - docs : https://apex.oracle.com/en/
   - https://docs.oracle.com/en/database/oracle/application-express/index.html
   - Apex tutorial : https://apex.oracle.com/en/learn/tutorials/
+  - PDF download : https://docs.oracle.com/database/apex-5.1/AETUT/AETUT.pdf
 - getting started : https://apex.oracle.com/en/learn/getting-started/
 - documentation : 
   - https://docs.oracle.com/database/apex-18.1/index.htm
   - https://docs.oracle.com/en/database/oracle/application-express/19.2/
+  - book : https://docs.oracle.com/en/database/oracle/application-express/19.1/books.html
   - OTN : Oracle Technology Network : https://www.oracle.com/technical-resources/
   - Oracle JET : https://www.oracle.com/webfolder/technetwork/jet/globalGetStarted.html
   - Ochart API Guide : https://docs.oracle.com/en/middleware/developer-tools/jet/7.2/reference-api/oj.ojChart.html
