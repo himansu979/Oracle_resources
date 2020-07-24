@@ -40,6 +40,10 @@ Oracle Cloud has 3 parts : **Cloud Applications (SaaS)**, **Cloud Infrastructure
   - Application roles : https://docs.oracle.com/en/cloud/paas/analytics-cloud/acabi/application-roles.html
   - Oracle Analytics Library : https://www.oracle.com/business-analytics/data-visualization/extensions.html
   
+- **ExCS : Exadata Cloud Service**
+  - https://www.oracle.com/database/exadata-cloud-service.html
+  - documentation : https://docs.oracle.com/en/cloud/paas/exadata-cloud/index.html
+  
 - **OCI CLI Command Reference** 
   - https://docs.cloud.oracle.com/en-us/iaas/Content/API/Concepts/cliconcepts.htm
   - oci cli pip package : https://pypi.org/project/oci-cli/
