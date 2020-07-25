@@ -18,6 +18,9 @@ you can develop and deploy professional Web-based applications for desktops and 
 - community : https://community.oracle.com/community/groundbreakers/database/developer-tools/application_express
 - youtube videos : https://www.youtube.com/playlist?list=PLUo-NIMouZ_ug2RrSrnwdC3POwUUCjPol
   - Caleb cury : https://www.youtube.com/watch?v=ahlW-Jkumto&list=PL_c9BZzLwBRJXk2hEP-U_OUMJAf_TYEiZ
+  - Oracle developers : Spreadsheet tutorial : https://www.youtube.com/watch?v=oTA1NdjBqyY&feature=youtu.be
+  - Oracle Application express : timecard : https://www.youtube.com/watch?v=gvRzsfG2OWc&t=1429s
+  - 
 - installing sample dataset : https://docs.oracle.com/en/database/oracle/application-express/18/tutorial-install-sample-dataset/
 - Oracle APEX hands on lab : https://oracle.github.io/learning-library/developer-library/apex/rest-web-source/?page=README.md
 - importing application to workspace : https://docs.oracle.com/en/database/oracle/application-express/19.1/aetut/importing-application-workspace.html
