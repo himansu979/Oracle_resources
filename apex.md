@@ -25,6 +25,7 @@ you can develop and deploy professional Web-based applications for desktops and 
 - Oracle APEX hands on lab : https://oracle.github.io/learning-library/developer-library/apex/rest-web-source/?page=README.md
 - importing application to workspace : https://docs.oracle.com/en/database/oracle/application-express/19.1/aetut/importing-application-workspace.html
 - App builder users guide : https://docs.oracle.com/en/database/oracle/application-express/19.1/htmdb/editing-pages-page-designer.html#GUID-EFD04B51-9114-466C-9CCA-9BF43BE4F571
+- SQL Developer Web : https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/user/sql-developer-web.html#GUID-102845D9-6855-4944-8937-5C688939610F
 
 
 # Blogs
