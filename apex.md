@@ -7,6 +7,8 @@ you can develop and deploy professional Web-based applications for desktops and 
   - Apex tutorial : https://apex.oracle.com/en/learn/tutorials/
   - PDF download : https://docs.oracle.com/database/apex-5.1/AETUT/AETUT.pdf
   - Apex world : https://apex.world/ords/f?p=100:1::::::
+  - Universal theme : https://apex.oracle.com/pls/apex/apex_pm/r/ut/home
+  - Apex community shortcuts: https://apex.oracle.com/pls/apex/f?p=411:18
 - getting started : https://apex.oracle.com/en/learn/getting-started/
 - documentation : 
   - https://docs.oracle.com/database/apex-18.1/index.htm
