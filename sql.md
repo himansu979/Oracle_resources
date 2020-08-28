@@ -2,8 +2,11 @@
 - Oracle Live SQL : https://livesql.oracle.com/apex/f?p=590:1000
 - PL/SQL tutorial (guru99) : https://www.guru99.com/pl-sql-tutorials.html
 - PL/SQL tutorialspoint : https://www.tutorialspoint.com/plsql/index.htm
-- PL/SQL tutorial : https://www.oracletutorial.com/plsql-tutorial/
+- Oracle tutorial PL/SQL tutorial : https://www.oracletutorial.com/plsql-tutorial/
 - Tech on the Net : https://www.techonthenet.com/oracle/index.php
+- PL/SQL tutorial : https://www.plsqltutorial.com/
+- PL/SQL in one hour steven : https://www.youtube.com/watch?v=vR8uDZ-u0aI&feature=youtu.be
+- PL-SQL tutorial : https://plsql-tutorial.com/
 
 ## CREATE OR REPLACE VIEW
 https://www.techonthenet.com/oracle/views.php
