@@ -8,6 +8,11 @@
 - PL/SQL in one hour steven : https://www.youtube.com/watch?v=vR8uDZ-u0aI&feature=youtu.be
 - PL-SQL tutorial : https://plsql-tutorial.com/
 
+# Download
+- SQLPlus : https://www.oratable.com/sqlplus-instant-client-installation/
+- https://www.oracle.com/database/technologies/instant-client/winx64-64-downloads.html
+- Download Basic Light Package, SQLPlus Package
+
 ## CREATE OR REPLACE VIEW
 https://www.techonthenet.com/oracle/views.php
 ```
