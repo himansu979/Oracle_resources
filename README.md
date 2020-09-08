@@ -15,6 +15,9 @@ Oracle Cloud has 3 parts : **Cloud Applications (SaaS)**, **Cloud Infrastructure
   - OCI Data Flow : https://docs.cloud.oracle.com/en-us/iaas/data-flow/using/dfs_data_flow.htm
   - OCI object storage : https://docs.cloud.oracle.com/en-us/iaas/Content/Object/Concepts/objectstorageoverview.htm
 - **Oracle Cloud Platform Documentation (PaaS) :** https://docs.oracle.com/en/cloud/paas/index.html
+  - Oracle GoldenGate Cloud Service : https://docs.oracle.com/en/cloud/paas/goldengate-cloud/index.html
+  - GG middleware page : https://docs.oracle.com/en/middleware/goldengate/index.html
+  - Oracle GG for Bigdata : https://docs.oracle.com/en/middleware/goldengate/big-data/19.1/index.html
   - Oracle Integration : https://docs.oracle.com/en/cloud/paas/integration-cloud/index.html
   - Oracle Analytics Cloud : https://docs.oracle.com/en/cloud/paas/analytics-cloud/index.html
 
