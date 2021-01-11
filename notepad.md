@@ -13,6 +13,7 @@ notepad shortcuts : http://www.keyxl.com/aaacd5a/43/Notepad-Plus-text-editor-sof
 | ctrl+up/down  | move sidebar up/down |
 | ctrl+right/left  | move cursor one word forward/backward |
 | ctrl+alt/shift+enter  | insert blank line above/below the current line |
+| shift+enter           | insert blank line above the current line |
 | ctrl+shift+delete/backspace | delete to end/beginning of current line |
 | shift+end  | select entire line from current cursor |
 | shift+right/left arrow  | move cursor by one character |
